@@ -1,0 +1,17 @@
+{
+  "name": "getting-going-in-gatsby-slides",
+  "version": "1.0.0",
+  "description": "slides for getting going in gatsby presentation",
+  "main": "index.js",
+  "dependencies": {
+    "file-loader": "^3.0.1",
+    "mdx-deck": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "mdx-deck deck.mdx"
+  },
+  "author": "Scott McAllister <stmcallister@gmail.com>",
+  "license": "ISC"
+}
