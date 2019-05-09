@@ -1,0 +1,2 @@
+# Getting Going in Gatsby
+This is a repo of resources used in my talk about getting started with [Gatsbyjs](https://gatsbyjs.org). I'm also experimenting with [mdx-deck](https://github.com/jxnblk/mdx-deck)--a library for creating slides out of mdx (think markdown+jsx) for the first time. 
