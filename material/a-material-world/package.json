@@ -33,7 +33,7 @@
     "moment": "^2.23.0",
     "netlify-cms": "2.3.3",
     "node-sass": "^4.13.1",
-    "prismjs": "^1.21.0",
+    "prismjs": "^1.23.0",
     "react": "^16.7.0",
     "react-disqus-comments": "^1.4.0",
     "react-dom": "^16.7.0",
