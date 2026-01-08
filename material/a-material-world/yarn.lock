@@ -12017,9 +12017,10 @@ react-swipeable-views-core@^0.12.17:
     "@babel/runtime" "7.0.0"
     warning "^4.0.1"
 
-react-swipeable-views-utils@^0.12.17:
-  version "0.12.17"
-  resolved "https://registry.yarnpkg.com/react-swipeable-views-utils/-/react-swipeable-views-utils-0.12.17.tgz#5219faa766b683d907288cdd7b86c0a14b577b7f"
+react-swipeable-views-utils@^0.12.18:
+  version "0.12.18"
+  resolved "https://registry.yarnpkg.com/react-swipeable-views-utils/-/react-swipeable-views-utils-0.12.18.tgz#6edfcc9d722901f0edaf79c78bc6c4a7cc25da81"
+  integrity sha512-Y8APE9bSfZhebYHRGDOoHeIqNJbrZMlpIiHqD0hovdlYv+HvBAdqAKdwppzIE1QXISqBKwJAlYl86plvfTW1dg==
   dependencies:
     "@babel/runtime" "7.0.0"
     fbjs "^0.8.4"
@@ -12029,14 +12030,15 @@ react-swipeable-views-utils@^0.12.17:
     react-swipeable-views-core "^0.12.17"
 
 react-swipeable-views@^0.12.8:
-  version "0.12.17"
-  resolved "https://registry.yarnpkg.com/react-swipeable-views/-/react-swipeable-views-0.12.17.tgz#4d6a9bf4b667ce7b7aac3112d696598b94a1cf30"
+  version "0.12.18"
+  resolved "https://registry.yarnpkg.com/react-swipeable-views/-/react-swipeable-views-0.12.18.tgz#3b5d75bbfb826553fe0e42bc04b9c1c4b45acd77"
+  integrity sha512-/8OCD2jBWzPNUi+GgRVwNqAz/SANoAzYDKnxE0VtchkL8gSssjEICVCaNF5aGFavY9fizjHxc2avDLfNYMy+Dg==
   dependencies:
     "@babel/runtime" "7.0.0"
     dom-helpers "^3.2.1"
     prop-types "^15.5.4"
     react-swipeable-views-core "^0.12.17"
-    react-swipeable-views-utils "^0.12.17"
+    react-swipeable-views-utils "^0.12.18"
     warning "^4.0.1"
 
 react-textarea-autosize@^7.0.0:
